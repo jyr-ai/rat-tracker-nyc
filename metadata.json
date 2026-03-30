@@ -1,0 +1,5 @@
+{
+  "name": "NYC Rat Tracker",
+  "description": "A real-time dashboard for monitoring rat sightings across New York City using NYC Open Data.",
+  "requestFramePermissions": ["geolocation"]
+}
